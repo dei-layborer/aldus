@@ -1,0 +1,8 @@
+# Linux
+*~
+.Trash-*
+.nfs*
+.fuse_hidden
+
+# KDE directory preferences
+.directory
